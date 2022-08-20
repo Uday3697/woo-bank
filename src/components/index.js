@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
-import Biling from "./Biling";
-import Buisness from "./Buisness"
+import Billing from "./Billing";
+import Business from "./Business";
 import Button from "./Button";
 import CardDeal from "./CardDeal";
 import Clients from "./Clients";
@@ -12,10 +12,11 @@ import Hero from "./Hero";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
 
+
 export {
     Navbar,
-    Biling,
-    Buisness,
+    Billing,
+    Business,
     Button,
     CardDeal, Clients, CTA, FeedbackCard,
     Footer,
